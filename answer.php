@@ -43,7 +43,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/temperature.png" alt="temperature" />
+        <img src="./images/temperature.svg" alt="temperature" />
       </div>
       <?php
       $fahrenheit = $_GET["fahrenheit"];
